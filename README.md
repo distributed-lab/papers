@@ -1,22 +1,22 @@
 # Papers
 The registry with Distributed Lab papers
 
-| Paper  | Link   |  Category |  Status | How to cite  | 
-|---|---|---|---|---|
-| Multichain Taprootized Atomic Swaps: Introducing Untraceability through Zero-Knowledge Proofs | https://arxiv.org/abs/2402.16735 | Bitcoin | Pre-print | Kurbatov, Oleksandr, et al. "Multichain Taprootized Atomic Swaps: Introducing Untraceability through Zero-Knowledge Proofs." arXiv preprint arXiv:2402.16735 (2024). |
-| Optimizing Big Integer Multiplication on Bitcoin: Introducing w-windowed Approach | https://eprint.iacr.org/2024/1236.pdf | Bitcoin | Pre-print | Zakharov, Dmytro, et al. "Optimizing big integer multiplication on bitcoin: Introducing w-windowed approach." Cryptology ePrint Archive (2024).
-| In Da Club | https://github.com/distributed-lab/papers/blob/main/in-da-club/In_Da_Club.pdf | Identity | Pre-print | Mr. Chewbacca. "In Da Club."
-| Extending the SPV contract concept with privacy gadgets | https://github.com/distributed-lab/papers/blob/main/spv/Extending_the_SPV_contract_concept_with_privacy_gadgets.pdf | Bitcoin, ZKP | Pre-print | Kurbatov, Oleksandr, et al. "Extending the SPV contract concept with privacy gadgets." |
-| IMOK: A compact connector for non-prohibition proofs to privacy-preserving applications | https://eprint.iacr.org/2024/1868 | ZKP | Pre-print | Kurbatov, Oleksandr, et al. "IMOK: A compact connector for non-prohibition proofs to privacy-preserving applications." Cryptology ePrint Archive (2024).
-| Atlantis Protocol. Private succinct transfers on public networks | https://arxiv.org/pdf/2412.02585 | Privacy, Payments | Pre-print | Kurbatov, Oleksandr, Kyrylo Riabov, and Mykhailo Velykodnyi. "Atlantis Protocol." arXiv preprint arXiv:2412.02585 (2024).
-| ZK Multisig Wallet Proposal | https://github.com/distributed-lab/papers/blob/main/zk-multisig/zk_multisig.pdf | ZKP | Pre-print | Chystiakov, Artem, et al. "ZK Multisig Wallet Proposal." |
-| Freedom Tool: Passport-based Anonymous Voting Solution | https://github.com/distributed-lab/papers/blob/main/freedom-tool/Freedom_Tool.pdf | Privacy, voting | Pre-print | "Freedom Tool: Passport-based Anonymous Voting Solution."  
-| Bulletproofs++. Construction and Examples | https://github.com/distributed-lab/papers/blob/main/bulletproofs/Review_paper_on_BP.pdf | ZKP | Pre-print | Fomenko, Oleg, et al. "Bulletproofs++. Construction and Examples." |
-| BFT Paxos comparison | https://github.com/distributed-lab/papers/blob/main/bft-paxos/BFT_Paxos_comparison.pdf | Consensus | Pre-print | Melnik, Illia, et al. "BFT Paxos comparison."
-|  Analysis and Comparison of Approaches for Anonymous Cross-Chain Proofs of Membership |  https://ieeexplore.ieee.org/abstract/document/9030447 | ZKP, privacy  | Published  | Kravchenko, Pavlo, et al. "Analysis and Comparison of Approaches for Anonymous Cross-Chain Proofs of Membership." 2023 IEEE 1st Ukrainian Distributed Ledger Technology Forum (UADLTF). IEEE, 2023.  |
-|  How to Iden3 | https://github.com/distributed-lab/papers/blob/main/iden3/How-to-Iden3.pdf |  Identity |   |   |
-|  Global Digital Identity and Public Key Infrastructure | https://osf.io/u3bt4/download#page=238  | Identity, PKI  | Published  | Kurbatov, Oleksandr, et al. "Global Digital Identity and Public Key Infrastructure." ISCI’2019: INFORMATION SECURITY IN CRITICAL INFRASTRUCTURES (2019): 237. |
-| Using ring signatures for an anonymous e-voting system 2019 | https://ieeexplore.ieee.org/abstract/document/9030447 | Privacy, voting | Published | Kurbatov, Oleksandr, et al. "Using ring signatures for an anonymous e-voting system." 2019 IEEE International Conference on Advanced Trends in Information Theory (ATIT). IEEE, 2019. |
+| Paper |  Category |  Status | How to cite  | 
+|---|---|---|---|
+| [Multichain Taprootized Atomic Swaps: Introducing Untraceability through Zero-Knowledge Proofs](https://arxiv.org/abs/2402.16735) | Bitcoin | Pre-print | Kurbatov, Oleksandr, et al. "Multichain Taprootized Atomic Swaps: Introducing Untraceability through Zero-Knowledge Proofs." arXiv preprint arXiv:2402.16735 (2024). |
+| [Optimizing Big Integer Multiplication on Bitcoin: Introducing w-windowed Approach](https://eprint.iacr.org/2024/1236.pdf) | Bitcoin | Pre-print | Zakharov, Dmytro, et al. "Optimizing big integer multiplication on bitcoin: Introducing w-windowed approach." Cryptology ePrint Archive (2024).
+| [In Da Club](https://github.com/distributed-lab/papers/blob/main/in-da-club/In_Da_Club.pdf) | Identity | Pre-print | Mr. Chewbacca. "In Da Club."
+| [Extending the SPV contract concept with privacy gadgets](https://github.com/distributed-lab/papers/blob/main/spv/Extending_the_SPV_contract_concept_with_privacy_gadgets.pdf) | Bitcoin, ZKP | Pre-print | Kurbatov, Oleksandr, et al. "Extending the SPV contract concept with privacy gadgets." |
+| [IMOK: A compact connector for non-prohibition proofs to privacy-preserving applications](https://eprint.iacr.org/2024/1868) | ZKP | Pre-print | Kurbatov, Oleksandr, et al. "IMOK: A compact connector for non-prohibition proofs to privacy-preserving applications." Cryptology ePrint Archive (2024).
+| [Atlantis Protocol. Private succinct transfers on public networks](https://arxiv.org/pdf/2412.02585) | Privacy, Payments | Pre-print | Kurbatov, Oleksandr, Kyrylo Riabov, and Mykhailo Velykodnyi. "Atlantis Protocol." arXiv preprint arXiv:2412.02585 (2024).
+| [ZK Multisig Wallet Proposal](https://github.com/distributed-lab/papers/blob/main/zk-multisig/zk_multisig.pdf) | ZKP | Pre-print | Chystiakov, Artem, et al. "ZK Multisig Wallet Proposal." |
+| [Freedom Tool: Passport-based Anonymous Voting Solution](https://github.com/distributed-lab/papers/blob/main/freedom-tool/Freedom_Tool.pdf) | Privacy, voting | Pre-print | "Freedom Tool: Passport-based Anonymous Voting Solution."  
+| [Bulletproofs++. Construction and Examples](https://github.com/distributed-lab/papers/blob/main/bulletproofs/Review_paper_on_BP.pdf) | ZKP | Pre-print | Fomenko, Oleg, et al. "Bulletproofs++. Construction and Examples." |
+| [BFT Paxos comparison](https://github.com/distributed-lab/papers/blob/main/bft-paxos/BFT_Paxos_comparison.pdf) | Consensus | Pre-print | Melnik, Illia, et al. "BFT Paxos comparison."
+| [Analysis and Comparison of Approaches for Anonymous Cross-Chain Proofs of Membership](https://ieeexplore.ieee.org/abstract/document/9030447) | ZKP, privacy  | Published  | Kravchenko, Pavlo, et al. "Analysis and Comparison of Approaches for Anonymous Cross-Chain Proofs of Membership." 2023 IEEE 1st Ukrainian Distributed Ledger Technology Forum (UADLTF). IEEE, 2023.  |
+| [How to Iden3](https://github.com/distributed-lab/papers/blob/main/iden3/How-to-Iden3.pdf) |  Identity |   |   |
+| [Global Digital Identity and Public Key Infrastructure](https://osf.io/u3bt4/download#page=238)  | Identity, PKI  | Published  | Kurbatov, Oleksandr, et al. "Global Digital Identity and Public Key Infrastructure." ISCI’2019: INFORMATION SECURITY IN CRITICAL INFRASTRUCTURES (2019): 237. |
+| [Using ring signatures for an anonymous e-voting system 2019](https://ieeexplore.ieee.org/abstract/document/9030447) | Privacy, voting | Published | Kurbatov, Oleksandr, et al. "Using ring signatures for an anonymous e-voting system." 2019 IEEE International Conference on Advanced Trends in Information Theory (ATIT). IEEE, 2019. |
 
 
 Medium: https://distributed-lab.medium.com/
