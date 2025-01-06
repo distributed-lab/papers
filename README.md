@@ -1,5 +1,6 @@
 # Papers
-The registry with Distributed Lab papers
+
+The registry with Distributed Lab papers.
 
 | Paper |  Category |  Status | How to cite  | 
 |---|---|---|---|
@@ -10,6 +11,7 @@ The registry with Distributed Lab papers
 | [IMOK: A compact connector for non-prohibition proofs to privacy-preserving applications](https://eprint.iacr.org/2024/1868) | ZKP | Preprint | Kurbatov, Oleksandr, et al. "IMOK: A compact connector for non-prohibition proofs to privacy-preserving applications." Cryptology ePrint Archive (2024).
 | [Atlantis Protocol. Private succinct transfers on public networks](https://arxiv.org/pdf/2412.02585) | Privacy, Payments | Preprint | Kurbatov, Oleksandr, Kyrylo Riabov, and Mykhailo Velykodnyi. "Atlantis Protocol." arXiv preprint arXiv:2412.02585 (2024).
 | [ZK Multisig Wallet Proposal](https://github.com/distributed-lab/papers/blob/main/zk-multisig/zk_multisig.pdf) | ZKP | Preprint | Chystiakov, Artem, et al. "ZK Multisig Wallet Proposal." |
+| [Non-Interactive Bias-Free Voting within ZK Multisig Wallets](https://github.com/distributed-lab/papers/blob/main/zk-multisig/Non_Interactive_Bias_free_Voting_Within_ZK_Multisig_Wallets.pdf) | ZKP | Preprint | Chystiakov, Artem, et al. "Non-Interactive Bias-Free Voting within ZK Multisig Wallets." |
 | [Freedom Tool: Passport-based Anonymous Voting Solution](https://github.com/distributed-lab/papers/blob/main/freedom-tool/Freedom_Tool.pdf) | Privacy, voting | Preprint | "Freedom Tool: Passport-based Anonymous Voting Solution."  
 | [Bulletproofs++. Construction and Examples](https://github.com/distributed-lab/papers/blob/main/bulletproofs/Review_paper_on_BP.pdf) | ZKP | Preprint | Fomenko, Oleg, et al. "Bulletproofs++. Construction and Examples." |
 | [BFT Paxos comparison](https://github.com/distributed-lab/papers/blob/main/bft-paxos/BFT_Paxos_comparison.pdf) | Consensus | Preprint | Melnik, Illia, et al. "BFT Paxos comparison."
@@ -18,16 +20,20 @@ The registry with Distributed Lab papers
 | [Global Digital Identity and Public Key Infrastructure](https://osf.io/u3bt4/download#page=238)  | Identity, PKI  | Published  | Kurbatov, Oleksandr, et al. "Global Digital Identity and Public Key Infrastructure." ISCI’2019: INFORMATION SECURITY IN CRITICAL INFRASTRUCTURES (2019): 237. |
 | [Using ring signatures for an anonymous e-voting system 2019](https://ieeexplore.ieee.org/abstract/document/9030447) | Privacy, voting | Published | Kurbatov, Oleksandr, et al. "Using ring signatures for an anonymous e-voting system." 2019 IEEE International Conference on Advanced Trends in Information Theory (ATIT). IEEE, 2019. |
 
+## Medium
 
-Medium: https://distributed-lab.medium.com/
-- Token protocols war on top of Bitcoin https://distributed-lab.medium.com/token-protocols-war-on-top-of-bitcoin-2b850040d424
-- Account Abstraction Landscape https://distributed-lab.medium.com/account-abstraction-landscape-a8ccfe7a022a
-- Is the UMA protocol the Future of Global Money Transfers? https://distributed-lab.medium.com/is-the-uma-protocol-the-future-of-global-money-transfers-a34375832852
-- How to broadcast a Bitcoin payment transaction via a single SMS https://distributed-lab.medium.com/how-to-broadcast-a-bitcoin-payment-transaction-via-single-sms-91f24bace0c4
-- ZKProtection for MITM attacks https://distributed-lab.medium.com/zkprotection-for-mitm-attacks-3b969b58e16f
-- How to prove that you are 21 and not reveal anything else https://distributed-lab.medium.com/how-to-prove-that-you-are-21-and-not-reveal-anything-else-9ad5b56a7cbc
+https://distributed-lab.medium.com/
 
-Blogs:
+- Token protocols war on top of Bitcoin: https://distributed-lab.medium.com/token-protocols-war-on-top-of-bitcoin-2b850040d424
+- Account Abstraction Landscape: https://distributed-lab.medium.com/account-abstraction-landscape-a8ccfe7a022a
+- Is the UMA protocol the Future of Global Money Transfers?: https://distributed-lab.medium.com/is-the-uma-protocol-the-future-of-global-money-transfers-a34375832852
+- How to broadcast a Bitcoin payment transaction via a single SMS: https://distributed-lab.medium.com/how-to-broadcast-a-bitcoin-payment-transaction-via-single-sms-91f24bace0c4
+- ZKProtection for MITM attacks: https://distributed-lab.medium.com/zkprotection-for-mitm-attacks-3b969b58e16f
+- How to prove that you are 21 and not reveal anything else: https://distributed-lab.medium.com/how-to-prove-that-you-are-21-and-not-reveal-anything-else-9ad5b56a7cbc
+
+## Blogs
+
 - Using ZK Sessions to improve UX: https://mirror.xyz/0x90699B5A52BccbdFe73d5c9F3d039a33fb2D1AF6/CBV3OczDVZwOkZPtvAhfYadlOQOdjLegWF7A20UAu4M
 - Building ZK passport-based voting: https://mirror.xyz/0x90699B5A52BccbdFe73d5c9F3d039a33fb2D1AF6/1JSk1fvRwpfUQhLZt1OlaBpVDkXIutVYYXdYgaukh0c
 - Passport validation with ZKP: https://medium.com/@denys.riabtsev/national-passports-verification-with-zkp-part-1-b653f5e5c8d8
+- Cartesian Merkle Tree - The New Breed: https://medium.com/@Arvolear/cartesian-merkle-tree-the-new-breed-a30b005ecf27
