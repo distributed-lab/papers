@@ -10,8 +10,8 @@ The registry with Distributed Lab papers.
 | [Extending the SPV contract concept with privacy gadgets](https://github.com/distributed-lab/papers/blob/main/spv/Extending_the_SPV_contract_concept_with_privacy_gadgets.pdf) | Bitcoin, ZKP | Preprint | Kurbatov, Oleksandr, et al. "Extending the SPV contract concept with privacy gadgets." |
 | [IMOK: A compact connector for non-prohibition proofs to privacy-preserving applications](https://eprint.iacr.org/2024/1868) | ZKP | Preprint | Kurbatov, Oleksandr, et al. "IMOK: A compact connector for non-prohibition proofs to privacy-preserving applications." Cryptology ePrint Archive (2024).
 | [Atlantis Protocol. Private succinct transfers on public networks](https://arxiv.org/pdf/2412.02585) | Privacy, Payments | Preprint | Kurbatov, Oleksandr, Kyrylo Riabov, and Mykhailo Velykodnyi. "Atlantis Protocol." arXiv preprint arXiv:2412.02585 (2024).
-| [ZK Multisig Wallet Proposal](https://github.com/distributed-lab/papers/blob/main/zk-multisig/zk_multisig.pdf) | ZKP | Preprint | Chystiakov, Artem, et al. "ZK Multisig Wallet Proposal." |
-| [Non-Interactive Bias-Free Voting within ZK Multisig Wallets](https://github.com/distributed-lab/papers/blob/main/zk-multisig/Non_Interactive_Bias_free_Voting_Within_ZK_Multisig_Wallets.pdf) | ZKP | Preprint | Chystiakov, Artem, et al. "Non-Interactive Bias-Free Voting within ZK Multisig Wallets." |
+| [ZK Multisig Wallet Proposal](https://github.com/distributed-lab/papers/blob/main/zk-multisig/zk_multisig.pdf) | ZKP | Preprint | Chystiakov, Artem, Komendant Oleh. "ZK Multisig Wallet Proposal." |
+| [Non-Interactive Bias-Free Voting within ZK Multisig Wallets](https://github.com/distributed-lab/papers/blob/main/zk-multisig/Non_Interactive_Bias_free_Voting_Within_ZK_Multisig_Wallets.pdf) | ZKP | Preprint | Chystiakov, Artem, Zhvanko Mariia. "Non-Interactive Bias-Free Voting within ZK Multisig Wallets." |
 | [Freedom Tool: Passport-based Anonymous Voting Solution](https://github.com/distributed-lab/papers/blob/main/freedom-tool/Freedom_Tool.pdf) | Privacy, voting | Preprint | "Freedom Tool: Passport-based Anonymous Voting Solution."  
 | [Bulletproofs++. Construction and Examples](https://github.com/distributed-lab/papers/blob/main/bulletproofs/Review_paper_on_BP.pdf) | ZKP | Preprint | Fomenko, Oleg, et al. "Bulletproofs++. Construction and Examples." |
 | [BFT Paxos comparison](https://github.com/distributed-lab/papers/blob/main/bft-paxos/BFT_Paxos_comparison.pdf) | Consensus | Preprint | Melnik, Illia, et al. "BFT Paxos comparison."
@@ -19,6 +19,7 @@ The registry with Distributed Lab papers.
 | [How to Iden3](https://github.com/distributed-lab/papers/blob/main/iden3/How-to-Iden3.pdf) |  Identity |   |   |
 | [Global Digital Identity and Public Key Infrastructure](https://osf.io/u3bt4/download#page=238)  | Identity, PKI  | Published  | Kurbatov, Oleksandr, et al. "Global Digital Identity and Public Key Infrastructure." ISCI’2019: INFORMATION SECURITY IN CRITICAL INFRASTRUCTURES (2019): 237. |
 | [Using ring signatures for an anonymous e-voting system 2019](https://ieeexplore.ieee.org/abstract/document/9030447) | Privacy, voting | Published | Kurbatov, Oleksandr, et al. "Using ring signatures for an anonymous e-voting system." 2019 IEEE International Conference on Advanced Trends in Information Theory (ATIT). IEEE, 2019. |
+| [ZK Secret Santa Protocol](https://arxiv.org/pdf/2501.06515) | ZKP, Privacy | Preprint | Chystiakov, Artem, Kyrylo Riabov. "ZK Secret Santa." arXiv preprint arXiv:2501.06515 (2025).
 
 ## Medium
 
