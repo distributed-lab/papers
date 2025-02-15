@@ -40,3 +40,4 @@ https://distributed-lab.medium.com/
 - Building ZK passport-based voting: https://mirror.xyz/0x90699B5A52BccbdFe73d5c9F3d039a33fb2D1AF6/1JSk1fvRwpfUQhLZt1OlaBpVDkXIutVYYXdYgaukh0c
 - Passport validation with ZKP: https://medium.com/@denys.riabtsev/national-passports-verification-with-zkp-part-1-b653f5e5c8d8
 - Cartesian Merkle Tree - The New Breed: https://medium.com/@Arvolear/cartesian-merkle-tree-the-new-breed-a30b005ecf27
+- uint512 - The Most Expensive Solidity Function: https://medium.com/@dovgopoly/the-most-expensive-solidity-function-6702876a9217
