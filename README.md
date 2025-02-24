@@ -19,7 +19,8 @@ The registry with Distributed Lab papers.
 | [How to Iden3](https://github.com/distributed-lab/papers/blob/main/iden3/How-to-Iden3.pdf) |  Identity |   |   |
 | [Global Digital Identity and Public Key Infrastructure](https://osf.io/u3bt4/download#page=238)  | Identity, PKI  | Published  | Kurbatov, Oleksandr, et al. "Global Digital Identity and Public Key Infrastructure." ISCI’2019: INFORMATION SECURITY IN CRITICAL INFRASTRUCTURES (2019): 237. |
 | [Using ring signatures for an anonymous e-voting system 2019](https://ieeexplore.ieee.org/abstract/document/9030447) | Privacy, voting | Published | Kurbatov, Oleksandr, et al. "Using ring signatures for an anonymous e-voting system." 2019 IEEE International Conference on Advanced Trends in Information Theory (ATIT). IEEE, 2019. |
-| [ZK Secret Santa Protocol](https://arxiv.org/pdf/2501.06515) | ZKP, Privacy | Preprint | Chystiakov, Artem, Kyrylo Riabov. "ZK Secret Santa." arXiv preprint arXiv:2501.06515 (2025).
+| [ZK Secret Santa Protocol](https://arxiv.org/pdf/2501.06515) | ZKP, Privacy | Preprint | Chystiakov, Artem, Kyrylo Riabov. "ZK Secret Santa." arXiv preprint arXiv:2501.06515 (2025). |
+| [Global identity concept - hard reboot after hard reboot](https://docs.google.com/document/d/15TIrh6LLdHRT6ZPoNt75lPXpATOfATGQVqj-TxjKa5s/edit?tab=t.0#heading=h.ojfy14o6y8o8) | Identity | Preprint | Kravchenko, Pavlo, Oleksandr Kurbatov. "Global identity concept - hard reboot after hard reboot" |
 | [Cryptographic proof of custody for incentivized file-sharing](https://docs.google.com/document/d/1F81ulKEZFPIGNEVRsx0H1gl2YRtf0mUMsX011BzSjnY/edit?tab=t.0#heading=h.690s2lxr6afk) | Privacy | Preprint | Pavel Kravchenko, and Vlad Zamfir. "Cryptographic proof of custody for incentivized file-sharing"|
 
 
