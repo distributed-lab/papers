@@ -4,7 +4,7 @@ The registry with Distributed Lab papers.
 
 | Paper |  Category |  Status | How to cite  | 
 |---|---|---|---|
-| [Wrapless: Bitcoin lending without wrapping services](https://github.com/distributed-lab/papers/tree/main/Wrapless-v.0.2) | Bitcoin, DeFi | Preprint | Kurbatov, Oleksandr, et al. "Wrapless: Bitcoin lending without wrapping services." |
+| [Wrapless: Bitcoin lending without wrapping services](https://github.com/distributed-lab/papers/blob/main/wrapless/Wrapless-v.0.2.pdf) | Bitcoin, DeFi | Preprint | Kurbatov, Oleksandr, et al. "Wrapless: Bitcoin lending without wrapping services." |
 | [RBR: Recovering Bitcoin with Rarimo](https://github.com/distributed-lab/papers/tree/main/rbr) | Bitcoin | Preprint | Kurbatov, Oleksandr, et al. "RBR: Recovering Bitcoin with Rarimo." |
 | [Multichain Taprootized Atomic Swaps: Introducing Untraceability through Zero-Knowledge Proofs](https://arxiv.org/abs/2402.16735) | Bitcoin | Preprint | Kurbatov, Oleksandr, et al. "Multichain Taprootized Atomic Swaps: Introducing Untraceability through Zero-Knowledge Proofs." arXiv preprint arXiv:2402.16735 (2024). |
 | [Optimizing Big Integer Multiplication on Bitcoin: Introducing w-windowed Approach](https://eprint.iacr.org/2024/1236.pdf) | Bitcoin | Preprint | Zakharov, Dmytro, et al. "Optimizing big integer multiplication on bitcoin: Introducing w-windowed approach." Cryptology ePrint Archive (2024).
