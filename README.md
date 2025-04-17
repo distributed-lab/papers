@@ -4,6 +4,7 @@ The registry with Distributed Lab papers.
 
 | Paper |  Category |  Status | How to cite  | 
 |---|---|---|---|
+| [Cartesian Merkle Tree](https://github.com/distributed-lab/papers/blob/main/cartesian-merkle-tree/Cartesian_Merkle_Tree.pdf) | Cryptography, Security | Preprint | Chystiakov, Artem, Oleh Komendant, Kyrylo Riabov. "Cartesian Merkle Tree." arXiv preprint arXiv:2504.10944 (2025). |
 | [Wrapless: Bitcoin lending without wrapping services](https://github.com/distributed-lab/papers/blob/main/wrapless/Wrapless-v.0.2.pdf) | Bitcoin, DeFi | Preprint | Kurbatov, Oleksandr, et al. "Wrapless: Bitcoin lending without wrapping services." |
 | [RBR: Recovering Bitcoin with Rarimo](https://github.com/distributed-lab/papers/tree/main/rbr) | Bitcoin | Preprint | Kurbatov, Oleksandr, et al. "RBR: Recovering Bitcoin with Rarimo." |
 | [Multichain Taprootized Atomic Swaps: Introducing Untraceability through Zero-Knowledge Proofs](https://arxiv.org/abs/2402.16735) | Bitcoin | Preprint | Kurbatov, Oleksandr, et al. "Multichain Taprootized Atomic Swaps: Introducing Untraceability through Zero-Knowledge Proofs." arXiv preprint arXiv:2402.16735 (2024). |
