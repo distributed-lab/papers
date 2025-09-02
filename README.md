@@ -27,7 +27,8 @@ The registry with Distributed Lab papers.
 | [Global identity concept - hard reboot after hard reboot](https://docs.google.com/document/d/15TIrh6LLdHRT6ZPoNt75lPXpATOfATGQVqj-TxjKa5s/edit?tab=t.0#heading=h.ojfy14o6y8o8) | Identity               | Preprint  | Kravchenko, Pavlo, Oleksandr Kurbatov. "Global identity concept - hard reboot after hard reboot" |
 | [Cryptographic proof of custody for incentivized file-sharing](https://docs.google.com/document/d/1F81ulKEZFPIGNEVRsx0H1gl2YRtf0mUMsX011BzSjnY/edit?tab=t.0#heading=h.690s2lxr6afk) | Privacy                | Preprint  | Pavel Kravchenko, and Vlad Zamfir. "Cryptographic proof of custody for incentivized file-sharing"|
 | [BLS12-381 vs BN254 From Circom Developer Perspective](https://github.com/distributed-lab/papers/blob/main/circom/bls12_381_vs_bn254.pdf) | ZKP                    | -         | - |
-| [Confidential Wrapped Ethereum](https://github.com/distributed-lab/papers/blob/main/cWETH/Confidential_Wrapped_Ethereum.pdf) | Privacy, ZKP           | -         | Chystiakov, Artem, Zhvanko Mariia. "Confidential Wrapped Ethereum" |
+| [Confidential Wrapped Ethereum](https://github.com/distributed-lab/papers/blob/main/cWETH/Confidential_Wrapped_Ethereum.pdf) | Privacy, ZKP, finance            | -         | Chystiakov, Artem, Zhvanko Mariia. "Confidential Wrapped Ethereum" |
+| [ZEX: Confidential Peer-to-Peer DEX](https://github.com/distributed-lab/papers/blob/main/cWETH/ZEX_confidential_peer_to_peer_DEX.pdf) | Privacy, ZKP, finance       | -         | Chystiakov, Artem, Zhvanko Mariia. "ZEX: Confidential Peer-to-Peer DEX v0.1" |
 
 ## Medium
 
